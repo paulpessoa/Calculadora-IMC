@@ -1,6 +1,5 @@
-# Calculadora-Recesso-Estagio-Remunerado
-
-Acesse o projeto clicando aqui: https://paulpessoa.github.io/Calculadora-Recesso-Estagio-Remunerado/
+# Calculadora-IMC
+Acesse o projeto clicando aqui: https://paulpessoa.github.io/Calculadora-IMC/
 
 ![](imagem-pagina-calculo-imc.png)
 
